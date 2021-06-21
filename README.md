@@ -38,7 +38,7 @@ zövqə görə duz
 <img src="https://github.com/Selny/c_sharp_homeworks/blob/main/pictures_dont_enter_thank_you/Photo%20on%2020.06.21%20at%2001.42%20%233.jpg">
 
 <p>Şəkildəki Tural müəllimimdi.
-Proqramlaşdırmanı sevdirərək və əyləndirərək tədris edir<p>
+Proqramlaşdırmanı sevdirərək və əyləndirərək öyrədir.<p>
 <img src="https://avatars.githubusercontent.com/u/61878427?v=4">
 
 <p>Buda pişiyim Müəzzadı. Yatanda üzümü iyliyir.<p>
