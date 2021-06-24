@@ -46,6 +46,8 @@ Proqramlaşdırmanı sevdirərək və əyləndirərək öyrədir.<p>
 
 <h2>Dünyəvi arzu ve meqsedlerim:
     ⚪️ C# oyrenib oyun yazmaq
-    ⚪️ Oqlanlarla təbiət içi kampa getmek ve pijama partisi etmək
+    ⚪️ Oğlanlarla təbiət içi kampa getmek ve pijama partisi etmək
     ⚪️ Kəndə köçmək 
+    ⚪️ Minecraft-da oğlanlarla ev tikmək
+    ⚪️ Oğlanlarla türk hamamında bir birimzə əski çırpmağ
 <h2>
