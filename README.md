@@ -43,11 +43,3 @@ Proqramlaşdırmanı sevdirərək və əyləndirərək öyrədir.<p>
 
 <p>Buda pişiyim Müəzzadı. Yatanda üzümü iyliyir.<p>
 <img src="https://github.com/Selny/c_sharp_homeworks/blob/main/pictures_dont_enter_thank_you/640A37EB-F807-4590-BAED-84BE2DA59777.jpeg" width="450" height="600" />
-
-<h2>Dünyəvi arzu ve meqsedlerim:
-    ⚪️ C# oyrenib oyun yazmaq
-    ⚪️ Oğlanlarla təbiət içi kampa getmek ve pijama partisi etmək
-    ⚪️ Kəndə köçmək 
-    ⚪️ Minecraft-da oğlanlarla ev tikmək
-    ⚪️ Oğlanlarla türk hamamında bir birimzə əski çırpmağ
-<h2>
