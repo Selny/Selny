@@ -1,5 +1,3 @@
-<h3> Source: https://azcookbook.com/azeri/dusbərə/ <h3>
-
 <h1>Haqqımda: adım Emindi 20 yaşım var.<h1>
 <img src="https://github.com/Selny/c_sharp_homeworks/blob/main/pictures_dont_enter_thank_you/Photo%20on%2020.06.21%20at%2001.43.jpg">
 
